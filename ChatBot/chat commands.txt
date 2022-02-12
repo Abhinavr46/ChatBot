@@ -1,0 +1,11 @@
+Texts to try with chatbot
+
+hello
+hi
+who are you?
+tell me something about cogno.ai
+goodbye
+i Love ai
+
+
+NOTE: CASE SENSITIVE
