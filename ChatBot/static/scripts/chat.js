@@ -60,7 +60,7 @@ function getResponse() {
     let userText = $("#textInput").val();
 
     if (userText == "") {
-        userText = "Welcome to Cogno ai";
+        userText = "Ask me something";
     }
 
     if (userText == "♥"){
